@@ -8,11 +8,12 @@ _italic formate_
 ## list formate
   ### orderdlist
         1. item1
-        1. item2
-        1. item3
+        2. item2
+        3. item3
   ### unorderlist
         * item1
         * item2
         * item3
-## strikethrough
-     ~~strikethroug~~
+## blockquotes
+   > dhfgshugdskjhfdsgiufskjjhj
+      >> sdfhjkfghjg
