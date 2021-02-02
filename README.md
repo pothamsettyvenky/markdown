@@ -63,4 +63,4 @@ _italic formate_
 
 ![ntr2](https://raw.githubusercontent.com/sudheerkumarjupalli/markdown/6b8b185c7527c082b321193f8324deb1842c2a30/EWTZnxRVAAAT43C.jpg)
 
-[![vide]](https://youtu.be/BN1MwXUR3PM)
+[![ram for bheem]](https://youtu.be/BN1MwXUR3PM)(https://i.ytimg.com/vi/BN1MwXUR3PM/maxresdefault.jpg)
