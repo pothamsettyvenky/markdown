@@ -62,3 +62,5 @@ _italic formate_
 ![ntr](https://i.pinimg.com/originals/09/8e/9e/098e9e8073b86af474c9548bb847d547.jpg)
 
 ![ntr2](https://raw.githubusercontent.com/sudheerkumarjupalli/markdown/6b8b185c7527c082b321193f8324deb1842c2a30/EWTZnxRVAAAT43C.jpg)
+
+[![vide]](https://youtu.be/BN1MwXUR3PM)
