@@ -37,8 +37,17 @@ _italic formate_
         return(num1+num2)
         
 ```     
-
-## table formate
+```html 
+   <html>
+     <title>hi</title>
+     <body>
+       <h1>heading</h1>
+     </body>
+</html>
+```
+     
+ ## table formate
+     
 | name | email |
 | ---- | -------|
 | sudheer | sudheerkumarjupalli@gmail.com |
