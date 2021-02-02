@@ -15,4 +15,4 @@ _italic formate_
         * item2
         * item3
 ## strikethrough
-     ~~strikethroug~~
+     ~~ strikethroug ~~
