@@ -61,4 +61,4 @@ _italic formate_
 
 ![ntr](https://i.pinimg.com/originals/09/8e/9e/098e9e8073b86af474c9548bb847d547.jpg)
 
-![ntr2](i)
+![ntr2]()
