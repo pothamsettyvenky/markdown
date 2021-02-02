@@ -18,3 +18,5 @@ _italic formate_
    > dhfgshugdskjhfdsgiufskjjhj
    
    >> sdfhjkfghjg
+## horizental rule
+    --- it is horizantal
