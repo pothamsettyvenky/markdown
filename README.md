@@ -8,12 +8,12 @@ _italic formate_
 ## list formate
   ### orderdlist
   
-        1. item1
+   1. item1
         
            * subitem1
            * subitem2
            
-        2. item2
+      2. item2
         3. item3
   ### unorderlist
   
