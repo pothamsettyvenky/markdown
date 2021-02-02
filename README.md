@@ -28,10 +28,16 @@ _italic formate_
     print("hi")
     
 '''
+
 '''javascript
  
     function(num1,num2)
         return(num1+num2)
         
 '''     
-   
+
+## table formate
+| name | email |
+| ---- | -------|
+| sudheer | sudheerkumarjupalli@gmail.com |
+| sai | mormisettysai@email.com |
